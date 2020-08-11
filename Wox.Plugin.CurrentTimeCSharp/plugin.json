@@ -1,0 +1,12 @@
+{
+  "ID": "C87EE6744DDC3EFEA74EDFE25DA5D7B3",
+  "ActionKeyword": "time",
+  "Name": "CurrentTimeCSharp",
+  "Description": "Get Current Time(China) C#.",
+  "Author": "G_G",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "Website": "http://www.wox.one",
+  "ExecuteFileName": "Wox.Plugin.CurrentTimeCSharp.dll",
+  "IcoPath": "time.png"
+}
